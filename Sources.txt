@@ -1,0 +1,11 @@
+
+1)Assets:
+For Assets I used the create with code complete course library from unity.
+
+2)Source : https://assetstore.unity.com/packages/templates/tutorials/create-with-		code-complete-course-library-146048
+
+3)Code used in this project was a mixture of the code I learnt from the Create with Code series.
+
+4)Assets changes:
+Changes that were made were for vehicle assets used in the project.
+The changes were size changes to make vehicles a bit smaller or bigger.
